@@ -1,0 +1,27 @@
+{
+  "name": "simple-type-converter",
+  "version": "0.0.0",
+  "description": "A micro library for type conversion.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/essenmitsosse/simple-type-converter.git"
+  },
+  "keywords": [
+    "javascript",
+    "type",
+    "type-conversion",
+    "type-converter",
+    "conversion",
+    "converter"
+  ],
+  "author": "Marcus Blättermann <kontakt@essenmitsosse.de> (http://essenmitsosse.de)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/essenmitsosse/simple-type-converter/issues"
+  },
+  "homepage": "https://github.com/essenmitsosse/simple-type-converter#readme"
+}
