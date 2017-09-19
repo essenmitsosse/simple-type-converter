@@ -24,4 +24,10 @@
     "url": "https://github.com/essenmitsosse/simple-type-converter/issues"
   },
   "homepage": "https://github.com/essenmitsosse/simple-type-converter#readme"
+	"devDependencies": {
+		"chai": "^4.1.1",
+		"coveralls": "^2.13.1",
+		"istanbul": "^0.4.5",
+		"mocha": "^3.5.0"
+	}
 }
