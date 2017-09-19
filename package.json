@@ -2,7 +2,7 @@
 	"name": "simple-type-converter",
 	"version": "0.0.0",
 	"description": "A micro library for type conversion.",
-	"main": "index.js",
+	"main": "simple-type-converter.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
