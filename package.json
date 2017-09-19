@@ -4,7 +4,9 @@
 	"description": "A micro library for type conversion.",
 	"main": "simple-type-converter.js",
 	"scripts": {
-		"test": "mocha -R spec tests/*"
+		"test": "mocha -R spec tests/*",
+		"watchtest": "mocha -R min tests/* -watch",
+		"cover": "node_modules/istanbul/lib/cli.js cover node_modules/mocha/bin/_mocha -- -R spec tests/*"
 	},
 	"repository": {
 		"type": "git",
